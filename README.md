@@ -12,7 +12,9 @@
 
 SwarmMind is an open-source framework for building **Swarm Intelligence systems powered by AI agents**. Traditional AI systems rely on a **single model generating answers**. SwarmMind explores a different paradigm: **Intelligence emerging from many AI agents thinking together.**
 
-Inspired by natural swarm systems such as **ant colonies, bee swarms, and distributed neural systems**, SwarmMind enables multiple AI agents to **collaborate, critique, and improve solutions through collective reasoning**. Instead of a single AI responding once, SwarmMind creates **a swarm of AI minds that think together.**
+Inspired by natural swarm systems such as **ant colonies, bee swarms, and distributed neural systems**, SwarmMind enables multiple AI agents to **collaborate, critique, and improve solutions through collective reasoning**. 
+
+Instead of a single AI responding once, SwarmMind creates **a swarm of AI minds that think together.**
 
 
 
