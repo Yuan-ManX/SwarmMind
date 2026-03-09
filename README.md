@@ -165,8 +165,8 @@ SwarmMind follows a distributed swarm intelligence architecture with:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/swarmmind.git
-cd swarmmind
+git clone https://github.com/Yuan-ManX/SwarmMind.git
+cd SwarmMind
 ```
 
 > Build the infrastructure for **collective intelligence in AI systems**.
