@@ -29,7 +29,7 @@ Instead of a single AI responding once, SwarmMind creates **a swarm of AI minds 
 
 
 
-# 📖 Table of Contents
+## 📖 Table of Contents
 
 - [Overview](#overview)
 - [What is Swarm Intelligence](#what-is-swarm-intelligence)
@@ -47,7 +47,7 @@ Instead of a single AI responding once, SwarmMind creates **a swarm of AI minds 
 
 
 
-# Overview
+## Overview
 
 SwarmMind is an open-source framework for building **Swarm Intelligence systems powered by AI agents**.
 
@@ -76,7 +76,7 @@ Instead of one AI producing a response, SwarmMind creates **a swarm of AI minds 
 
 
 
-# What is Swarm Intelligence
+## What is Swarm Intelligence
 
 Swarm Intelligence describes how **many simple agents interacting locally can produce powerful collective intelligence**.
 
@@ -93,7 +93,7 @@ SwarmMind applies this principle to **AI agent systems**.
 
 
 
-# Vision
+## Vision
 
 Modern AI models are powerful but **isolated**.
 
@@ -112,9 +112,9 @@ Our mission:
 
 
 
-# Key Features
+## Key Features
 
-## 🧠 Multi-Agent Reasoning
+### 🧠 Multi-Agent Reasoning
 
 Multiple AI agents reason together instead of relying on a single model.
 
@@ -128,7 +128,7 @@ Agents can:
 
 
 
-## 🔁 Iterative Swarm Thinking
+### 🔁 Iterative Swarm Thinking
 
 SwarmMind performs **multi-round reasoning cycles**.
 
@@ -154,7 +154,7 @@ Benefits:
 
 
 
-## 🧩 Modular Agent Roles
+### 🧩 Modular Agent Roles
 
 Agents can have specialized roles.
 
@@ -166,9 +166,9 @@ Agents can have specialized roles.
 | Coder Agent | implement solutions |
 | Reviewer Agent | evaluate results |
 
----
 
-## 🧠 Shared Swarm Memory
+
+### 🧠 Shared Swarm Memory
 
 Agents share a collaborative memory system:
 
@@ -179,7 +179,7 @@ Agents share a collaborative memory system:
 
 
 
-# Architecture
+## Architecture
 
 SwarmMind follows a **distributed swarm intelligence architecture**.
 
@@ -206,7 +206,7 @@ Core components:
 
 
 
-# Installation
+## Installation
 
 Clone the repository:
 
@@ -229,7 +229,7 @@ pip install -e .
 
 
 
-# Quick Start
+## Quick Start
 
 Run a simple swarm reasoning experiment:
 
@@ -239,7 +239,7 @@ python run_swarm.py
 
 
 
-# Example Usage
+## Example Usage
 
 Create a swarm of AI agents:
 
@@ -260,28 +260,28 @@ print(result)
 
 
 
-# Use Cases
+## Use Cases
 
-## Autonomous AI Research
+### Autonomous AI Research
 
 - generate research ideas
 - design experiments
 - analyze results
 
-## Collaborative Coding
+### Collaborative Coding
 
 - design architecture
 - write code
 - review implementations
 - detect bugs
 
-## Complex Problem Solving
+### Complex Problem Solving
 
 - planning
 - strategy
 - system design
 
-## Creative Collaboration
+### Creative Collaboration
 
 - storytelling
 - brainstorming
@@ -289,7 +289,7 @@ print(result)
 
 
 
-# Roadmap
+## Roadmap
 
 Planned features:
 
@@ -303,15 +303,9 @@ Planned features:
 
 
 
-# Contributing
+## Contributing
 
 SwarmMind welcomes contributions from:
-
-- AI researchers
-- engineers
-- open-source developers
-
-Ways to contribute:
 
 - add new swarm algorithms
 - improve agent coordination
@@ -323,7 +317,7 @@ Feel free to open an **Issue** or submit a **Pull Request**.
 
 
 
-# Star History
+## Star History
 
 If you like this project, please ⭐ star the repo.
 
@@ -337,7 +331,7 @@ If you like this project, please ⭐ star the repo.
 
 
 
-# The Future
+## The Future
 
 The future of AI will not belong to a single model.
 
