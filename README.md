@@ -211,8 +211,8 @@ Core components:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/swarmmind.git
-cd swarmmind
+git clone https://github.com/Yuan-ManX/SwarmMind.git
+cd SwarmMind
 ```
 
 Install dependencies:
