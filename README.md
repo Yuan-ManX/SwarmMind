@@ -5,16 +5,6 @@
 ### Many minds. One intelligence.
 ### Swarm Intelligence Infrastructure for AI Agents.
 
-<p align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/yourname/swarmmind?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourname/swarmmind?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourname/swarmmind)
-![GitHub license](https://img.shields.io/github/license/yourname/swarmmind)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![AI](https://img.shields.io/badge/AI-Swarm%20Intelligence-purple)
-
-</p>
 
 </div>
 
