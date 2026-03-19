@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/SwarmMind-logo.png" alt="SwarmMind Logo" width="70%"/>
+<img src="./assets/SwarmMind-logo.png" alt="SwarmMind Logo" width="75%"/>
 
 
 
