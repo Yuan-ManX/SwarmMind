@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="./assets/SwarmMind-logo.png" alt="SwarmMind Logo" width="65%"/>
+
 # 🐝 SwarmMind  
 ### 多个思维，一个智能。
 ### AI 代理的群体智能引擎。
+
+### [English](./README.md) | [中文文档](./README_CN.md)
 
 </div>
 
