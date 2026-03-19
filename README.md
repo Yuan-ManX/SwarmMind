@@ -1,10 +1,17 @@
 <div align="center">
 
+<img src="./assets/SwarmMind-logo.png" alt="SwarmMind Logo" width="65%"/>
+
+
+
 # 🐝 SwarmMind  
 ### Many minds. One intelligence.
 ### Swarm Intelligence Engine for AI Agents.
 
+### [English](./README.md) | [中文文档](./README_CN.md)
+
 </div>
+
 
 > Many AI minds. One collective intelligence.  
 > Let AI agents think together, challenge each other, and converge to superior solutions.
