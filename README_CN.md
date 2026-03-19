@@ -3,8 +3,8 @@
 <img src="./assets/SwarmMind-logo.png" alt="SwarmMind Logo" width="75%"/>
 
 # 🐝 SwarmMind  
-### 多个思维，一个智能。
-### AI 代理的群体智能引擎。
+### 当多个 AI 思考时，智能自然涌现。
+### AI Agents 的群体智能引擎。
 
 ### [English](./README.md) | [中文文档](./README_CN.md)
 
